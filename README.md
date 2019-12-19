@@ -6,4 +6,5 @@ This repo contains folders for each days project. Inside the folder you will fin
 
 ### Completed Projects
 * Day 1 - Drum Kit
+* Day 2 - Analog Clock
 
