@@ -10,3 +10,4 @@ This repo contains folders for each days project. Inside the folder you will fin
 * Day 3 - JavaScript and CSS Variables
 * Day 4 - Array Cardio
 * Day 5 - Flex Panels Image Gallery
+* Day 6 - Ajax Type
