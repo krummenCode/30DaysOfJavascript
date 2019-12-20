@@ -8,4 +8,4 @@ This repo contains folders for each days project. Inside the folder you will fin
 * Day 1 - Drum Kit
 * Day 2 - Analog Clock
 * Day 3 - JavaScript and CSS Variables
-
+* Day 4 - Array Cardio
