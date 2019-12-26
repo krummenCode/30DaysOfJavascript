@@ -1,0 +1,8 @@
+html, body {
+  margin: 0;
+}
+
+#draw {
+  height: 800;
+  width: 800;
+}
