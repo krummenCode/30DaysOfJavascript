@@ -11,3 +11,4 @@ This repo contains folders for each days project. Inside the folder you will fin
 * Day 4 - Array Cardio
 * Day 5 - Flex Panels Image Gallery
 * Day 6 - Ajax Type
+* Day 7 - Array Cardio Part 2
