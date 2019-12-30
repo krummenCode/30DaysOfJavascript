@@ -13,3 +13,4 @@ This repo contains folders for each days project. Inside the folder you will fin
 * Day 6 - Ajax Type
 * Day 7 - Array Cardio Part 2
 * Day 8 - Draw Canvas
+* Day 9 - Dev Tools and Tricks
