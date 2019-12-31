@@ -16,3 +16,4 @@ This repo contains folders for each days project. Inside the folder you will fin
 * Day 9 - Dev Tools and Tricks
 * Day 10 - Shift to check multiple boxes
 * Day 11 - Video Play back controls
+* Day 12 - Key Sequence Detector (Similar to cheat codes)
