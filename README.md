@@ -14,3 +14,4 @@ This repo contains folders for each days project. Inside the folder you will fin
 * Day 7 - Array Cardio Part 2
 * Day 8 - Draw Canvas
 * Day 9 - Dev Tools and Tricks
+* Day 10 - Shift to check multiple boxes
