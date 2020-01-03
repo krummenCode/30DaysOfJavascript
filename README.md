@@ -18,3 +18,5 @@ This repo contains folders for each days project. Inside the folder you will fin
 * Day 11 - Video Play back controls
 * Day 12 - Key Sequence Detector (Similar to cheat codes)
 * Day 13 - Pictures Slide in on Scroll
+* Day 14 - Reference Vs Copy
+* Day 15 - LocalStorage and Event Delegation
